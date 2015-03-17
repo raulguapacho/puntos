@@ -1,0 +1,1 @@
+  Se desactivaron los puntos del registro con id # 2<br>  Se desactivaron los puntos del registro con id # 3<br>  Se desactivaron los puntos del registro con id # 4<br> 
